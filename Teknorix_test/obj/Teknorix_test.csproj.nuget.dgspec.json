@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adhir\\projects\\.NET\\Teknorix_test\\Teknorix_test\\Teknorix_test.csproj": {}
+    "C:\\Users\\adhir\\projects\\.NET\\Job-board\\Teknorix_test\\Teknorix_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adhir\\projects\\.NET\\Teknorix_test\\Teknorix_test\\Teknorix_test.csproj": {
+    "C:\\Users\\adhir\\projects\\.NET\\Job-board\\Teknorix_test\\Teknorix_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adhir\\projects\\.NET\\Teknorix_test\\Teknorix_test\\Teknorix_test.csproj",
+        "projectUniqueName": "C:\\Users\\adhir\\projects\\.NET\\Job-board\\Teknorix_test\\Teknorix_test.csproj",
         "projectName": "Teknorix_test",
-        "projectPath": "C:\\Users\\adhir\\projects\\.NET\\Teknorix_test\\Teknorix_test\\Teknorix_test.csproj",
+        "projectPath": "C:\\Users\\adhir\\projects\\.NET\\Job-board\\Teknorix_test\\Teknorix_test.csproj",
         "packagesPath": "C:\\Users\\adhir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adhir\\projects\\.NET\\Teknorix_test\\Teknorix_test\\obj\\",
+        "outputPath": "C:\\Users\\adhir\\projects\\.NET\\Job-board\\Teknorix_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adhir\\AppData\\Roaming\\NuGet\\NuGet.Config",
